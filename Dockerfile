@@ -35,6 +35,6 @@ WORKDIR /app
 
 COPY --from=backend /app/backend ./
 
-EXPOSE 4513
+EXPOSE 5000
 
 CMD ["node", "index.js"]

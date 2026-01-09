@@ -6,9 +6,9 @@ export const portfolioData = {
     phone: "+91 9006308804",
     location: "Katauli, Bihar, India",
     github: "https://github.com/Rahulkumar6777",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/rahul-kumar-003aa2316/",
     twitter: "",
-    "picture": "https://api-devload.cloudcoderhub.in/public/64b2d2fe454e0f128767e54bca28b02c/1766838252547ff6da4d91af5c5d9093018f2e6d36b5f.jpeg"
+    "picture": "https://api-devload.cloudcoderhub.in/public/695f91881242b7ee566ffeea/176787154576659db7e7e05eb043d7fee2d91.jpeg"
   },
 
   about: {

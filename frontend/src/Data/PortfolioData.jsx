@@ -46,7 +46,7 @@ export const portfolioData = {
       description: "A modern social media platform with real-time messaging, live notifications, instant like updates, and interactive post sharing. It delivers a smooth, engaging experience with fast performance and real-time user interactions.",
       tech: ["React", "Node.js", "MongoDB", "Socket.io", "Docker", "GitHub Action", "Nginx"],
       type: "fullstack",
-      image: "https://api-devload.cloudcoderhub.in/public/64b2d2fe454e0f128767e54bca28b02c/176710995489957589a79148fb3a1554672db9116efe1.png",
+      image: "https://api-devload.cloudcoderhub.in/public/695f91881242b7ee566ffeea/1767977691765bcf60c01dd79cebc65535d87.png",
       github: "https://github.com/Rahulkumar6777/zapnet",
       live: "https://zapnet.cloudcoderhub.in"
     },
@@ -67,7 +67,7 @@ export const portfolioData = {
         "Cloudflare"
       ],
       type: "devops",
-      image: "http://api-devload.cloudcoderhub.in/public/64b2d2fe454e0f128767e54bca28b02c/1767111992754629970567ca01a9a533dcadc0a7fba2b.png",
+      image: "https://api-devload.cloudcoderhub.in/public/695f91881242b7ee566ffeea/176797767201909a04ed66600d34765d77694.png",
       github: "https://github.com/Rahulkumar6777/DevLoad",
       live: 'https://devload.cloudcoderhub.in'
     },

@@ -85,7 +85,7 @@ export const portfolioData = {
         "CI/CD"
       ],
       type: "fullstack",
-      image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=400&fit=crop",
+      image: "https://api-devload.cloudcoderhub.in/public/695f91881242b7ee566ffeea/1768303097390f6708707dcc355401a9574ab.png",
       github: "https://github.com/Rahulkumar6777/galleryhub",
       live: 'https://galleryhub.cloudcoderhub.in'
     }
